@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MongoDB,ElasticSearch,AWS,Redis**
 
-- 👨‍💻 All of my projects are available at [utsaw.in](utsaw.in)
+- 👨‍💻 All of my projects are available at [https://utsaw.in](https://utsaw.in)
 
 - 💬 Ask me about **Python,JavaScript,PHP**
 
 - 📫 How to reach me **utsaw.upadhyay@gmail.com**
 
-- 📄 Know about my experiences [utsaw.in](utsaw.in)
+- 📄 Know about my experiences [https://utsaw.in](https://utsaw.in)
 
 - ⚡ Fun fact **Love to discuss on Cryptos and Stocks!**
 
